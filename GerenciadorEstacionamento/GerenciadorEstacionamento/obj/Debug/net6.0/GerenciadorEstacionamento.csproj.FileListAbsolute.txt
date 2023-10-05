@@ -1,0 +1,14 @@
+C:\Users\eduar\source\repos\Estacionamento\GerenciadorEstacionamento\GerenciadorEstacionamento\bin\Debug\net6.0\GerenciadorEstacionamento.exe
+C:\Users\eduar\source\repos\Estacionamento\GerenciadorEstacionamento\GerenciadorEstacionamento\bin\Debug\net6.0\GerenciadorEstacionamento.deps.json
+C:\Users\eduar\source\repos\Estacionamento\GerenciadorEstacionamento\GerenciadorEstacionamento\bin\Debug\net6.0\GerenciadorEstacionamento.runtimeconfig.json
+C:\Users\eduar\source\repos\Estacionamento\GerenciadorEstacionamento\GerenciadorEstacionamento\bin\Debug\net6.0\GerenciadorEstacionamento.dll
+C:\Users\eduar\source\repos\Estacionamento\GerenciadorEstacionamento\GerenciadorEstacionamento\bin\Debug\net6.0\GerenciadorEstacionamento.pdb
+C:\Users\eduar\source\repos\Estacionamento\GerenciadorEstacionamento\GerenciadorEstacionamento\obj\Debug\net6.0\GerenciadorEstacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduar\source\repos\Estacionamento\GerenciadorEstacionamento\GerenciadorEstacionamento\obj\Debug\net6.0\GerenciadorEstacionamento.AssemblyInfoInputs.cache
+C:\Users\eduar\source\repos\Estacionamento\GerenciadorEstacionamento\GerenciadorEstacionamento\obj\Debug\net6.0\GerenciadorEstacionamento.AssemblyInfo.cs
+C:\Users\eduar\source\repos\Estacionamento\GerenciadorEstacionamento\GerenciadorEstacionamento\obj\Debug\net6.0\GerenciadorEstacionamento.csproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\Estacionamento\GerenciadorEstacionamento\GerenciadorEstacionamento\obj\Debug\net6.0\GerenciadorEstacionamento.dll
+C:\Users\eduar\source\repos\Estacionamento\GerenciadorEstacionamento\GerenciadorEstacionamento\obj\Debug\net6.0\refint\GerenciadorEstacionamento.dll
+C:\Users\eduar\source\repos\Estacionamento\GerenciadorEstacionamento\GerenciadorEstacionamento\obj\Debug\net6.0\GerenciadorEstacionamento.pdb
+C:\Users\eduar\source\repos\Estacionamento\GerenciadorEstacionamento\GerenciadorEstacionamento\obj\Debug\net6.0\GerenciadorEstacionamento.genruntimeconfig.cache
+C:\Users\eduar\source\repos\Estacionamento\GerenciadorEstacionamento\GerenciadorEstacionamento\obj\Debug\net6.0\ref\GerenciadorEstacionamento.dll
